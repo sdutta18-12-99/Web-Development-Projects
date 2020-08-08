@@ -1,0 +1,37 @@
+.center{
+    text-align: center;
+}
+header{
+    background-color: orange;
+}
+
+table, th, td{
+    border: 3px solid red;
+    border-collapse: collapse;
+}
+
+table{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    font-family: 'Amaranth', sans-serif;
+}
+
+th{
+    background-color: lawngreen;
+}
+
+td{
+    background-color: orange;
+}
+
+tfoot td{
+    background-color: gold;
+}
+
+h1.header{
+    color: royalblue;
+}
